@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mrkafeelahmedswati@gmail.com**
 
-- ⚡ My Hobbies **Coding ....**
+- ⚡ My Hobby **Coding ....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
