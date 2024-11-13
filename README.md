@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kafeel Ahmed</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
+<p align="center">
+  <img src="https://github.com/kafeelahmed-1/kafeelahmed-1/raw/main/img1.jpeg" alt="Banner Image" width="100%">
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kafeelahmed-1&label=Profile%20views&color=0e75b6&style=flat" alt="kafeelahmed-1" /> </p>
 
