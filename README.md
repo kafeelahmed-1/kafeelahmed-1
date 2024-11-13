@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kafeelahmed-1&label=Profile%20views&color=0e75b6&style=flat" alt="kafeelahmed-1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kafeelahmed-1" alt="kafeelahmed-1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mr.ahmeddd_" target="blank"><img src="https://img.shields.io/twitter/follow/mr.ahmeddd_?logo=twitter&style=for-the-badge" alt="mr.ahmeddd_" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack Development**
 
@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **mrkafeelahmedswati@gmail.com**
 
-- ⚡ My Hobby **Coding ....**
+- ⚡ My Hobbies **Coding ....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kafeelahmedswati_3232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kafeelahmedswati_3232" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kafeel-ahmed-286817329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kafeel-ahmed-286817329/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mrkafeelahmedswati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mrkafeelahmedswati/" height="30" width="40" /></a>
+<a href="https://twitter.com/mr.ahmeddd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr.ahmeddd_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kafeel-ahmed-286817329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kafeel-ahmed-286817329" height="30" width="40" /></a>
+<a href="https://fb.com/mrkafeelahmedswati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrkafeelahmedswati" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.ahmeddd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.ahmeddd_" height="30" width="40" /></a>
 </p>
 
